@@ -49,7 +49,10 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 ---
 
+## BLOCK DIAGRAM
+![Screenshot_20260325_094429_Drive](https://github.com/user-attachments/assets/ed40d881-7aed-4f31-a9c0-0570dec9bc93)
 
+---
 ## 📊 OBSERVATION AND CALCULATION
 
 - 
